@@ -1,2 +1,4 @@
 # gitUnityFeature
-movimineto + consumir objetos 
+Recoger Objetos + Mostrar texto pantalla
+
+
